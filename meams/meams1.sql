@@ -172,7 +172,8 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`) VALUES
 (6, 'admin', 'librarylightwood@gmail.com', '$2y$10$qf7e76yQaP8I9Er4dd5GCehg5PMSpKeonokg6TSMtTLOUYKjzDEzG'),
-(7, 'admin', 'carolinesardania_13@yahoo.com', '$2y$10$JxNSoZT0XsTvUy6yWMF7gOf0t5LXt2YmLz7X8gXfPyrLFrKsUHtwW');
+(7, 'admin', 'carolinesardania_13@yahoo.com', '$2y$10$JxNSoZT0XsTvUy6yWMF7gOf0t5LXt2YmLz7X8gXfPyrLFrKsUHtwW')
+(10, 'school checker', 'jossey_88@gmail.com', '$2y$10$XHKngkr7CD4mQbZscvWti.PGyJd9pFWXVlbMhVipvxfmE6LPIuHz.');
 
 --
 -- Indexes for dumped tables
